@@ -30,12 +30,12 @@ Below each Issue template is shown, when submitted empty
 
 ### Bug Report
 
-![bug_report](docu/bug_report.png)
+![bug_report](docu/bug.png)
 See: https://github.com/ulfgebhardt/issue-templates/issues/1
 
 ### DevOps Ticket
 
-![devops_ticket](docu/devops_ticket.png)
+![devops_ticket](docu/devops.png)
 See: https://github.com/ulfgebhardt/issue-templates/issues/2
 
 ### Epic
@@ -45,7 +45,7 @@ See: https://github.com/ulfgebhardt/issue-templates/issues/3
 
 ### Feature Request
 
-![feature_request](docu/feature_request.png)
+![feature_request](docu/feature.png)
 See: https://github.com/ulfgebhardt/issue-templates/issues/4
 
 ### Question
@@ -55,7 +55,7 @@ See: https://github.com/ulfgebhardt/issue-templates/issues/5
 
 ### Refactor Ticket
 
-![refactor_ticket](docu/refactor_ticket.png)
+![refactor_ticket](docu/refactor.png)
 See: https://github.com/ulfgebhardt/issue-templates/issues/6
 
 ### Release
