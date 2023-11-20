@@ -7,7 +7,7 @@ The Templates follow simple guidelines to improve the workflow of the developers
 - Have visual cues using emoji icons to make it easier to identify contents
 - Limited to 7 different templates covering most use cases for small teams
 
-This Repo also includes a Pullrequest template.
+This Repo also includes a Pullrequest template and a workflow to lint Pullrequest titles.
 
 ## Labels
 
